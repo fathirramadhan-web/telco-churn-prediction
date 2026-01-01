@@ -1,0 +1,25 @@
+{
+  "Logistic Regression": {
+    "class_weight": "balanced",
+    "C": 0.010766709435541014
+  },
+  "Random Forest": {
+    "n_estimators": 250,
+    "max_depth": 6,
+    "min_samples_leaf": 9,
+    "max_features": 0.5,
+    "class_weight": "balanced"
+  },
+  "XGBoost": {
+    "n_estimators": 450,
+    "max_depth": 2,
+    "learning_rate": 0.022623294853296554,
+    "subsample": 0.9313083454394723,
+    "colsample_bytree": 0.8222746764334239,
+    "min_child_weight": 8,
+    "gamma": 1.2494037833108733,
+    "reg_lambda": 0.5507555590078466,
+    "reg_alpha": 1.7898167236990457,
+    "scale_pos_weight": 1
+  }
+}
